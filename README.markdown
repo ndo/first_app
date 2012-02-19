@@ -2,6 +2,8 @@
 
 This is the first application for [*Ruby on Rails Tutorial: Learn Rails by Eample*](http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com/).
 
+The application is also deployed on Heroku at: (http://morning-dusk-4613.heroku.com/)
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
